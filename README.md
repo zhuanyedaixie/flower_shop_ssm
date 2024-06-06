@@ -1,13 +1,13 @@
 # 项目名称
-# 基于 java+ssm+mysql实现的商城项目
-基于java+ssm+maven+mysql实现的商城项目，ssm商城项目（期末大作业，毕业设计） java商城，ssm商城，jsp商城，mysql商城， java商城，servlet商城，jsp商城，mysql商城。 java，servlet商城，jsp商城，mysql商城
+# 基于 java+ssm+mysql实现的网上花店项目
+基于java+ssm+maven+mysql实现的网上花店项目，ssm网上花店项目（期末大作业，毕业设计） java网上花店，ssm网上花店，jsp网上花店，mysql网上花店， java网上花店，servlet网上花店，jsp网上花店，mysql网上花店。 java，servlet网上花店，jsp网上花店，mysql网上花店
 
 ## 安装与下载【idea与eclipse】
 ## 加QQ：2108657327 发项目源代码！！ 可以帮助远程调试运行好 【源码+数据库+远程调试】
 
 ## 特性/功能
 
-java+ssm+mybatis+mysql实现的商城项目
+java+ssm+mybatis+mysql实现的网上花店项目
 
 期末大作业，毕业设计
 
